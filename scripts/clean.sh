@@ -1,3 +1,3 @@
 #!/bin/bash
 
-rm HelloWorld.class
+rm -f HelloWorld.class
